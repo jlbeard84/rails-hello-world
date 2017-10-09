@@ -1,3 +1,3 @@
 # README
 
-Very simply Rails "Hello World"
+Very simple Rails "Hello World"
